@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<AnchorPane maxHeight="640.0" maxWidth="360.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="360.0" stylesheets="@css/main.css" xmlns="http://javafx.com/javafx/11.0.1" >
+<AnchorPane maxHeight="640.0" maxWidth="360.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="360.0" stylesheets="@css/main.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <VBox prefHeight="640.0" prefWidth="360.0" styleClass="bgImage" stylesheets="@css/main.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <effect>

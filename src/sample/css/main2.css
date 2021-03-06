@@ -1,0 +1,9 @@
+.root {
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-pref-width: 100px;
+}
